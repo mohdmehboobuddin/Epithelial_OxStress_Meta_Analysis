@@ -1,0 +1,8 @@
+# Ignore heavy raw data and environments
+data/
+*.RData
+*.Rhistory
+*.rds
+__pycache__/
+.ipynb_checkpoints/
+bio_env/

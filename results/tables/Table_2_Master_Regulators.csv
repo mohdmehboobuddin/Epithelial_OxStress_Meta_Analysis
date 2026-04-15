@@ -1,0 +1,11 @@
+Gene_Symbol,Gene_Name,Module_Connectivity_kME,Known_Biological_Function
+AKR1B10,Aldo-Keto Reductase Family 1 Member B10,0.94,Master detoxifier of lipid peroxidation products
+PCDH1,Protocadherin 1,0.91,Calcium-dependent cell-cell adhesion
+KRT14,Keratin 14,0.89,Basal epithelial cytoskeletal integrity
+Zeb1,Zinc Finger E-Box Binding Homeobox 1,0.88,Regulator of epithelial-mesenchymal transition (EMT)
+DSP,Desmoplakin,0.86,Anchor for intermediate filaments to desmosomes
+KRT5,Keratin 5,0.85,Structural scaffolding in stressed epithelia
+PCDH7,Protocadherin 7,0.84,Tissue architecture and barrier function maintenance
+CDH1,Cadherin 1 (E-Cadherin),0.83,Primary epithelial tight junction protein
+SNAI1,Snail Family Transcriptional Repressor 1,0.82,Transcriptional repressor of barrier permeability
+TWIST1,Twist Family BHLH Transcription Factor 1,0.81,Chromatin remodeling during cellular stress

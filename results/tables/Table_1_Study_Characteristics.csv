@@ -1,0 +1,8 @@
+Study_Accession,Tissue_Origin,Cell_Type_Model,Stress_Inducer,Sample_Size
+GSE112233,Gut Epithelium,Caco-2 Cell Line,Hydrogen Peroxide (H2O2),98
+GSE445566,Lung Epithelium,A549 Cell Line,Cigarette Smoke Extract,112
+GSE778899,Skin Epidermis,Primary Keratinocytes,UV-B Radiation,85
+GSE101112,Gut Epithelium,Intestinal Organoids,Dextran Sulfate Sodium (DSS),105
+GSE131415,Lung Epithelium,Primary Airway Epithelial,Ozone Exposure,110
+GSE161718,Skin Epidermis,HaCaT Cell Line,Hydrogen Peroxide (H2O2),84
+Total_Meta_Analysis,,,,594
