@@ -1,0 +1,3 @@
+"Disease_Cohort","GEO_Accession","Background_Genes_N","Discovery_Input_Genes","Clinical_Target_DEGs","Observed_Overlap","Expected_Overlap","Fold_Enrichment","Hypergeometric_P_Value"
+"Age-Related Macular Degeneration (AMD)","GSE115828",35949,297,1250,48,10.3,4.64,6.88e-19
+"Severe COPD Airway","GSE76925",30228,297,444,10,4.36,2.29,0.013
