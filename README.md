@@ -1,4 +1,4 @@
-k# Transcriptomic Meta-Analysis Reveals a Conserved Structural Gene Signature Associated with Oxidative Stress Across Human Epithelia
+# Transcriptomic Meta-Analysis Reveals a Conserved Structural Gene Signature Associated with Oxidative Stress Across Human Epithelia
 
 ## Overview
 
@@ -206,3 +206,9 @@ Hyderabad, Telangana, India
 ## Citation
 
 If you use this repository, code, or derived results, please cite the associated manuscript.
+
+---
+
+## License
+
+MIT License
